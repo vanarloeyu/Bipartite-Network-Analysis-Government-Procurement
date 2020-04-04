@@ -2,6 +2,7 @@
 
 Kevin Anthony S. Sison and Van Arloe M. Yu
 Master of Science in Data Science, ASITE, Asian Institute of Management, Philippines
+
 Corresponding author: kssison@aim.edu, vayu@aim.edu
 
 ## Abstract
@@ -11,3 +12,5 @@ Using a Bipartite Network Analysis, we were able to see the growth and change of
 Based on these findings, we highly recommend the development of an open-source tool that can be added to the functionalities being provided by PhilGEPS. This network analysis tool can be integrated to their monitoring system and help improve transparency and efficiency in the government procurement system.
 
 Keywords: Network Science, Complex Systems, Bipartite Network, Procurement, Government
+
+
