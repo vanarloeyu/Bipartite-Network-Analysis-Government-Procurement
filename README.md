@@ -4,8 +4,6 @@ Kevin Anthony S. Sison and Van Arloe M. Yu
 
 Master of Science in Data Science, ASITE, Asian Institute of Management, Philippines
 
-Corresponding author: kssison@aim.edu, vayu@aim.edu
-
 ## Abstract
 Procurement plays a critical role in the public sector. It is focused on supporting different units of the government to play their unique roles and serve citizens. Having an efficient and transparent procurement system is essential for any government organization to execute its initiatives like healthcare, education, and risk and disaster management.
 
